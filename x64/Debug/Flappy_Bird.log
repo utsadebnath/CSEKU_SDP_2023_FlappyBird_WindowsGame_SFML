@@ -1,0 +1,9 @@
+﻿  Flappy_Bird.cpp
+F:\UNIVERSITY\3-1 TERM\CSE 3106 SOFTWARE DEVELOPMENT PROJECT\FINAL\Flappy_Bird\Flappy_Bird.cpp(20,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+F:\UNIVERSITY\3-1 TERM\CSE 3106 SOFTWARE DEVELOPMENT PROJECT\FINAL\Flappy_Bird\Flappy_Bird.cpp(77,32): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+F:\UNIVERSITY\3-1 TERM\CSE 3106 SOFTWARE DEVELOPMENT PROJECT\FINAL\Flappy_Bird\Flappy_Bird.cpp(116,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+F:\UNIVERSITY\3-1 TERM\CSE 3106 SOFTWARE DEVELOPMENT PROJECT\FINAL\Flappy_Bird\Flappy_Bird.cpp(122,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  game.cpp
+  textures.cpp
+  Generating Code...
+  Flappy_Bird.vcxproj -> F:\UNIVERSITY\3-1 TERM\CSE 3106 SOFTWARE DEVELOPMENT PROJECT\FINAL\Flappy_Bird\x64\Debug\Flappy_Bird.exe
