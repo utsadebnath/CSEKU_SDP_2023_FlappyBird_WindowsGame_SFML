@@ -1,4 +1,9 @@
 # CSEKU_SDP_2023_FlappyBird_WindowsGame_SFML
+## Gameplay
+<div align="center">
+<img src="https://github.com/utsadebnath/CSEKU_SDP_2023_FlappyBird_WindowsGame_SFML/blob/main/demo.gif">
+</div>
+
 ## Prerequisites
 
 Before you begin, make sure you have the following installed on your system:
