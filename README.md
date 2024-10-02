@@ -66,6 +66,7 @@ The project follows a basic structure:
     
     Khulna University,Khulna,Bangladesh
   ## Developed By:
-
-	S M Musfikur Rahaman (190224)
 	Utsa Debnath (200242)
+	S M Musfikur Rahaman (190224)
+ ## Project Location : 
+ [Khulna University, Khulna, Bangladesh](https://maps.app.goo.gl/3mvCpczmBSKXXcfL7)
