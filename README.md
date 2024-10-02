@@ -24,3 +24,13 @@ Before you begin, make sure you have the following installed on your system:
 - Navigate the character through the openings between the pipes.
 - The game ends when the character collides with the ground or a pipe.
 - Your goal is to achieve the highest possible score by surviving as long as you can.
+## Project Structure
+
+The project follows a basic structure:
+
+- **`header/`**: Contains header files for the game code.
+- **`audio/`**: Contains game sounds.
+- **`images/`**: Includes game images.
+- **`fonts/`**: Includes game fonts.
+- **`demo.gif`**: An animated GIF showcasing the gameplay.
+
